@@ -1,7 +1,8 @@
 # What is Wireframing?
 Wireframing is the practice of creating basic visual guides that represent the skeletal framework of a website or application. A wireframe is essentially a low-fidelity layout that outlines the structure of a page, including its content and functionality, without focusing on visual design elements like colors, typography, or imagery. It's like a blueprint for a digital product, showing the arrangement of elements and how users will navigate through the interface.
 
-**Importance in the Design Process**
+## Importance in the Design Process
+
 Wireframing is a vital step in the design process for several key reasons:
 
 * **Clarifies Structure and Layout:** It helps define the hierarchy and layout of content on a page, ensuring important information is easily accessible and flows logically.
@@ -21,11 +22,11 @@ Wireframes focus on the fundamental building blocks of a user interface. While s
 
 1. **Layout Structure:** This defines the overall arrangement and organization of elements on a page. It determines where major sections like headers, footers, sidebars, and main content areas will be placed.
 
-* **Contribution:** Establishes visual hierarchy and flow, guiding the user's eye through the page. Example: Placing a prominent header at the top and a main content area below it.
+** **Contribution:** Establishes visual hierarchy and flow, guiding the user's eye through the page. Example: Placing a prominent header at the top and a main content area below it.
 
 2. **Navigation:** This outlines how users will move between different pages or sections of the application. It includes elements like menus, links, buttons, and search bars.
 
-* **Contribution:** Ensures users can easily find information and complete tasks. Example: A horizontal navigation bar at the top with links to main sections.
+** **Contribution:** Ensures users can easily find information and complete tasks. Example: A horizontal navigation bar at the top with links to main sections.
 
 3. **Content Placement:** This indicates where specific types of content, such as text blocks, images, videos, or forms, will reside within the layout. It focuses on the type and relative importance of content, not the final copy or visuals.
 
