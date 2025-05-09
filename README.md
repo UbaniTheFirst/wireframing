@@ -47,7 +47,7 @@ Wireframes vary in their level of detail, often categorized into two main types:
 
       * **When used:** Later in the design process, after the basic structure is agreed upon. They are used for testing more detailed interactions, presenting a clearer picture to stakeholders, and serving as a closer guide for the visual design and development teams.
 
-**About the Wireframes in This Project**
+### About the Wireframes in This Project
 
 This project focuses on understanding and potentially creating high-fidelity wireframes. While low-fidelity wireframes are a valuable initial step, the exercises and examples here aim towards developing more detailed and refined wireframe representations of user interfaces.
 
@@ -60,11 +60,11 @@ A variety of digital tools are available to help create wireframes, ranging from
 * **Miro:** An online collaborative whiteboard that can be used for brainstorming and creating simple wireflows.
 * **Figma:** A web-based interface design tool that is highly collaborative and versatile.
 
-**Recommended Tool: Figma**
+### Recommended Tool: Figma
 
 Figma is a powerful and popular choice for wireframing, and it is highly recommended for this project due to its collaborative nature and robust feature set.
 
-**Why Figma is useful for Wireframing:**
+### Why Figma is useful for Wireframing:
 
 * **Collaboration:** Being cloud-based, multiple users can work on the same file simultaneously, making teamwork seamless.
 * **Ease of Use:** Figma has an intuitive interface that is relatively easy to learn, even for beginners.
